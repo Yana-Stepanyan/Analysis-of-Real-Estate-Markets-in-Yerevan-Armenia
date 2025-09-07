@@ -86,7 +86,7 @@ These results are **strong for this dataset and market**, demonstrating that the
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/Sevak-Grigoryan/Analysis-of-Real-Estate-Markets-of-Armenia.git
+git clone https://github.com/Yana-Stepanyan/Analysis-of-Real-Estate-Markets-of-Armenia.git
 cd Analysis-of-Real-Estate-Markets-of-Armenia
 ```
 
